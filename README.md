@@ -1,0 +1,1 @@
+# mengetahui-kordinat-kuadrat-x-dan-y
